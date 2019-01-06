@@ -9,6 +9,7 @@
  * unfamiliarty between any pair of people for each group
  */
 
+
 #include <bits/stdc++.h>
 
 #define MAX_N 4001
